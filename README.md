@@ -3,7 +3,7 @@
 Download Sentinel 2 and Landsat data!!
 
 This app was built to allow users to use a streamlit app for requesting satellite open data from different collections and bands through Microsoft Planetary Computer API.
-
+https://satellite-open-data-explorer.streamlit.app/
 
 For setting up the development environment, clone this repo
 
